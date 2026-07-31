@@ -1,6 +1,6 @@
 #### *Full Stack AI Engineer bridging applied AI research and product development*
 
-<img src="img.jpg" height="250" />
+<img src="pixel_art.jpg" />
 
 "It's only delusional until it works"
 
